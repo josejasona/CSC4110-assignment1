@@ -1,4 +1,8 @@
+
 # Github and git conflict
-# CSC4110-assignment1
+
+#Github and git
+
+
 #Jason Jose
 # gg8042

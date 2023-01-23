@@ -10,7 +10,7 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Hello World!"; 
+    cout<<"TEsting Git Merge!"; 
       
     return 0; 
 } 
